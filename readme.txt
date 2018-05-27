@@ -4,7 +4,7 @@ Realizar un brazo en arduino para la materia de Sistemas Programables.
 Este proyecto fue realizado con fines educativos. 
 
 Autores: 
-Cristian Josafat Flores Ramírez __ No.Control 142402
+Cristian Josafat Flores Ramírez __ No.Control 14240146
 Carlos Omar Ramírez Rangel __ No.Control 14240265
 Isabel Guadalupe Rocha Ramírez __ No.Control 14240260
 
